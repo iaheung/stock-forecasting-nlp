@@ -1,0 +1,5 @@
+R^2 Score: 0.9745
+Mean Absolute Error (MAE): 0.5220
+Mean Absolute Percentage Error (MAPE): 0.3943%
+Explained Variance: 0.9768
+SMAPE (Symmetric Mean Absolute Percentage Error): 0.3956%
