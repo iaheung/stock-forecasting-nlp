@@ -6,3 +6,8 @@
 /checkpoints
 /data/processed
 model_training.ipynb
+/best_epochs
+/backtest_results
+/data/twelve_data_1min
+/model_metrics
+/plots
